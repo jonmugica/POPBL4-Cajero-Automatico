@@ -1,0 +1,18 @@
+digraph "modelos.ModeloTablaMaquina"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node2 [label="modelos.ModeloTablaMaquina",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node3 [label="AbstractTableModel",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node4 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" listaMaquinas" ];
+  Node4 [label="List\< objetos.Maquina \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node5 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" columnas" ];
+  Node5 [label="modelos.ModeloColumnasTabla",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classmodelos_1_1_modelo_columnas_tabla.html"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node6 [label="DefaultTableColumnModel",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node7 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" trazador" ];
+  Node7 [label="modelos.TrazadorTablaMaquina",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classmodelos_1_1_trazador_tabla_maquina.html"];
+  Node8 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node8 [label="TableCellRenderer",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

@@ -1,0 +1,53 @@
+\hypertarget{classmysql_1_1_conexion_j_d_b_c}{}\section{mysql.\+Conexion\+J\+D\+BC Class Reference}
+\label{classmysql_1_1_conexion_j_d_b_c}\index{mysql.\+Conexion\+J\+D\+BC@{mysql.\+Conexion\+J\+D\+BC}}
+
+
+Collaboration diagram for mysql.\+Conexion\+J\+D\+BC\+:
+% FIG 0
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classmysql_1_1_conexion_j_d_b_c_a342d326d6f6c9831bb117afccb912a04}\label{classmysql_1_1_conexion_j_d_b_c_a342d326d6f6c9831bb117afccb912a04}} 
+Prepared\+Statement {\bfseries prepared\+Statement} (String sql)
+\item 
+\mbox{\Hypertarget{classmysql_1_1_conexion_j_d_b_c_a77f0c70a90a3e174114586b131f10909}\label{classmysql_1_1_conexion_j_d_b_c_a77f0c70a90a3e174114586b131f10909}} 
+Result\+Set {\bfseries select} (String query)
+\item 
+\mbox{\Hypertarget{classmysql_1_1_conexion_j_d_b_c_a5a0abe91b83748401d0a630817c15e83}\label{classmysql_1_1_conexion_j_d_b_c_a5a0abe91b83748401d0a630817c15e83}} 
+int {\bfseries update} (String query)
+\item 
+\mbox{\Hypertarget{classmysql_1_1_conexion_j_d_b_c_a7cb683b19298ad4ccda2ef51abb68302}\label{classmysql_1_1_conexion_j_d_b_c_a7cb683b19298ad4ccda2ef51abb68302}} 
+int {\bfseries delete} (String query)
+\item 
+\mbox{\Hypertarget{classmysql_1_1_conexion_j_d_b_c_a05e552aeb511582e81c6dd6cba120182}\label{classmysql_1_1_conexion_j_d_b_c_a05e552aeb511582e81c6dd6cba120182}} 
+void {\bfseries close} ()
+\item 
+\mbox{\Hypertarget{classmysql_1_1_conexion_j_d_b_c_a6d8f0cd0e2046952d9771d379c16562a}\label{classmysql_1_1_conexion_j_d_b_c_a6d8f0cd0e2046952d9771d379c16562a}} 
+void {\bfseries registrar\+Pedido} (\mbox{\hyperlink{classobjetos_1_1_pedido}{Pedido}} p)
+\item 
+\mbox{\Hypertarget{classmysql_1_1_conexion_j_d_b_c_ab41e6e25d89ab9a807e9729fcdf5818f}\label{classmysql_1_1_conexion_j_d_b_c_ab41e6e25d89ab9a807e9729fcdf5818f}} 
+void {\bfseries registrar\+Linea} (int pedido\+Id, int producto\+ID, double precio\+Producto, int cantidad\+Productos)
+\item 
+\mbox{\Hypertarget{classmysql_1_1_conexion_j_d_b_c_abbadbe682819495c2b2afd962afba245}\label{classmysql_1_1_conexion_j_d_b_c_abbadbe682819495c2b2afd962afba245}} 
+int {\bfseries get\+Id\+Ultimo\+Pedido} ()  throws Class\+Not\+Found\+Exception, S\+Q\+L\+Exception 
+\item 
+\mbox{\Hypertarget{classmysql_1_1_conexion_j_d_b_c_a4dde03f79391c9a52f7a84e281c5a696}\label{classmysql_1_1_conexion_j_d_b_c_a4dde03f79391c9a52f7a84e281c5a696}} 
+int {\bfseries get\+Id\+Usuario} (String usuario)  throws Class\+Not\+Found\+Exception, S\+Q\+L\+Exception 
+\item 
+\mbox{\Hypertarget{classmysql_1_1_conexion_j_d_b_c_afa9f004689cee7a90e6a19c359409e04}\label{classmysql_1_1_conexion_j_d_b_c_afa9f004689cee7a90e6a19c359409e04}} 
+Array\+List$<$ \mbox{\hyperlink{classobjetos_1_1_usuario}{Usuario}} $>$ {\bfseries get\+Lista\+Usuarios} ()  throws Class\+Not\+Found\+Exception, S\+Q\+L\+Exception 
+\item 
+\mbox{\Hypertarget{classmysql_1_1_conexion_j_d_b_c_a38333a2f31d016faaf14c08901c6ffea}\label{classmysql_1_1_conexion_j_d_b_c_a38333a2f31d016faaf14c08901c6ffea}} 
+Array\+List$<$ \mbox{\hyperlink{classobjetos_1_1_pedido}{Pedido}} $>$ {\bfseries get\+Lista\+Pedidos} (String usuario)  throws Class\+Not\+Found\+Exception, S\+Q\+L\+Exception 
+\item 
+\mbox{\Hypertarget{classmysql_1_1_conexion_j_d_b_c_a93e878bd79640edb42bbaa5e11217f8e}\label{classmysql_1_1_conexion_j_d_b_c_a93e878bd79640edb42bbaa5e11217f8e}} 
+Array\+List$<$ \mbox{\hyperlink{classobjetos_1_1_producto}{Producto}} $>$ {\bfseries get\+Lista\+Productos} (int pedido\+ID)  throws Class\+Not\+Found\+Exception, S\+Q\+L\+Exception 
+\item 
+\mbox{\Hypertarget{classmysql_1_1_conexion_j_d_b_c_a5dbbd093ae378b5b023127bdf0ccf88e}\label{classmysql_1_1_conexion_j_d_b_c_a5dbbd093ae378b5b023127bdf0ccf88e}} 
+void {\bfseries guardar\+Pedidos\+BD} (\mbox{\hyperlink{classobjetos_1_1_usuario}{Usuario}} u)
+\end{DoxyCompactItemize}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/jonmu/\+Desktop/\+P\+O\+P\+B\+L 4/src/mysql/Conexion\+J\+D\+B\+C.\+java\end{DoxyCompactItemize}
