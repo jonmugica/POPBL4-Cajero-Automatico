@@ -1,15 +1,44 @@
+
+/*******************************************************************************
+ * Copyright (C) 2018, Elena Larreategui, Jon Mugica, Anton Alberdi
+ *
+ * All rights reserved. This program and the accompanying materials
+ * are made available under the terms of the Eclipse Public License v1.0
+ * which accompanies this distribution, and is available at
+ * http://www.eclipse.org/legal/epl-v10.html
+ *
+ * Contributors:
+ *     Elena Larreategi
+ *
+ ******************************************************************************/
+
 package objetos;
 
+/**
+ * This is the object Maquina that has the details of the status and identifier of the machine
+ *
+ * @author elena.larreategui
+ */
 
 
 public class Producto {
-	
+
 	double precio;
 	String nombre;
 	String descripcion;
 	int ID;
 	int cantidad;
 	double total;
+
+	/**
+	* Parameterized constructor.
+	*
+	* @param precio Prize of the product
+	* @param nombre Name of the product
+	* @param descripcion Description of the product
+	* @param id Identifier of the product
+	* @param cantidad Cuantity of the product
+	*/
 
 	public Producto(double precio, String nombre, String descripcion, int id, int cantidad) {
 		this.precio = precio;
@@ -19,15 +48,24 @@ public class Producto {
 		this.ID = id;
 		this.calcularTotal();
 	}
-	
+
+	/**
+	* calculates the total amount of money
+	*
+	*/
 	public void calcularTotal() {
 		this.total = cantidad * precio;
 	}
-	
+
 	public void incrementarCantidad() {
 		this.setCantidad(getCantidad()+1);
 	}
 
+	/**
+	* Returns the type of variable
+	*
+	* @return the needed type of variable.
+	*/
 	public Class<?> getFieldClass(int indice) {
 		switch (indice) {
 		case 0:
@@ -43,8 +81,9 @@ public class Producto {
 		}
 	}
 
+
 	public Object getFieldAt(int columna) {
-		
+
 		switch (columna) {
 		case 0:
 			return nombre;
@@ -54,12 +93,16 @@ public class Producto {
 			return cantidad;
 		case 3:
 			return total;
-		
+
 		default:
 			return null;
 		}
 	}
-	
+	/**
+	* Returns the cuantity
+	*
+	* @return actual's product quantity.
+	*/
 	public int getCantidad() {
 		return cantidad;
 	}
@@ -72,7 +115,7 @@ public class Producto {
 	public double getPrecio() {
 		return precio;
 	}
-	
+
 	public double getTotal() {
 		return total;
 	}
@@ -88,7 +131,7 @@ public class Producto {
 		return ID;
 	}
 
-	
+
 
 	@Override
 	public boolean equals(Object obj) {
@@ -96,6 +139,6 @@ public class Producto {
 		if (ID == other.ID)
 			return true;
 		return false;
-		
+
 	}
 }
