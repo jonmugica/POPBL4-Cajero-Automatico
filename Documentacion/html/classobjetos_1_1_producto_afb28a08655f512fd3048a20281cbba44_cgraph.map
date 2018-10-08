@@ -1,0 +1,5 @@
+<map id="objetos.Producto.incrementarCantidad" name="objetos.Producto.incrementarCantidad">
+<area shape="rect" id="node2" href="$classobjetos_1_1_producto.html#ae14dcc26bdc312a512627177d4e7e442" title="objetos.Producto.setCantidad" alt="" coords="245,13,439,39"/>
+<area shape="rect" id="node4" href="$classobjetos_1_1_producto.html#a33cadb40029d686345420c930bcabacf" title="objetos.Producto.getCantidad" alt="" coords="245,63,439,90"/>
+<area shape="rect" id="node3" href="$classobjetos_1_1_producto.html#aca1868670a4e90738389af3bb5fa3e00" title="objetos.Producto.calcular\lTotal" alt="" coords="487,5,656,47"/>
+</map>

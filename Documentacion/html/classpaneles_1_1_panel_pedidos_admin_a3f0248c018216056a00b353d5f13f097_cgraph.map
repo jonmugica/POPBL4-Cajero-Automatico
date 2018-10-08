@@ -1,0 +1,5 @@
+<map id="paneles.PanelPedidosAdmin.crearListaCompleta" name="paneles.PanelPedidosAdmin.crearListaCompleta">
+<area shape="rect" id="node2" href="$classmysql_1_1_conexion_j_d_b_c.html#afa9f004689cee7a90e6a19c359409e04" title="mysql.ConexionJDBC.getLista\lUsuarios" alt="" coords="275,5,473,47"/>
+<area shape="rect" id="node3" href="$classmysql_1_1_conexion_j_d_b_c.html#a38333a2f31d016faaf14c08901c6ffea" title="mysql.ConexionJDBC.getLista\lPedidos" alt="" coords="275,71,473,112"/>
+<area shape="rect" id="node4" href="$classmysql_1_1_conexion_j_d_b_c.html#a93e878bd79640edb42bbaa5e11217f8e" title="mysql.ConexionJDBC.getLista\lProductos" alt="" coords="275,136,473,177"/>
+</map>

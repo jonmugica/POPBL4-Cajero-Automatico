@@ -1,0 +1,5 @@
+<map id="mysql.ConexionJDBC.registrarPedido" name="mysql.ConexionJDBC.registrarPedido">
+<area shape="rect" id="node2" href="$classobjetos_1_1_pedido.html#a2cedae9fd179897d4d7e83b655d6fa58" title="objetos.Pedido.getId" alt="" coords="275,5,415,32"/>
+<area shape="rect" id="node3" href="$classobjetos_1_1_pedido.html#afed5e1d427d944ead970861ef07be474" title="objetos.Pedido.getUsuarioID" alt="" coords="252,56,439,83"/>
+<area shape="rect" id="node4" href="$classobjetos_1_1_pedido.html#af2c6fe4c929f1fce6443e3ffcb2c0a45" title="objetos.Pedido.getString\lFecha" alt="" coords="263,107,427,149"/>
+</map>

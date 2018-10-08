@@ -1,0 +1,17 @@
+<map id="lineaserie.Lector" name="lineaserie.Lector">
+<area shape="rect" id="node4" href="$classlineaserie_1_1_serial_comm.html" title="lineaserie.SerialComm" alt="" coords="1083,56,1235,83"/>
+<area shape="rect" id="node8" href="$classvistas_1_1_principal.html" title="vistas.Principal" alt="" coords="739,719,849,745"/>
+<area shape="rect" id="node9" href="$classobjetos_1_1_reloj.html" title="objetos.Reloj" alt="" coords="1111,701,1208,728"/>
+<area shape="rect" id="node11" href="$classpaneles_1_1_panel_principal.html" title="paneles.PanelPrincipal" alt="" coords="1429,589,1584,616"/>
+<area shape="rect" id="node12" href="$classcontroladores_1_1_controlador_tabla_principal.html" title="controladores.Controlador\lTablaPrincipal" alt="" coords="1789,627,1960,669"/>
+<area shape="rect" id="node26" href="$classcontroladores_1_1_controlador_toolbar.html" title="controladores.Controlador\lToolbar" alt="" coords="1074,522,1245,563"/>
+<area shape="rect" id="node38" href="$classpaneles_1_1_panel_acceso.html" title="paneles.PanelAcceso" alt="" coords="1085,1236,1233,1263"/>
+<area shape="rect" id="node41" href="$classcontroladores_1_1_controlador_acceso.html" title="controladores.Controlador\lAcceso" alt="" coords="1421,1202,1592,1243"/>
+<area shape="rect" id="node15" href="$classmodelos_1_1_modelo_tabla_productos.html" title="modelos.ModeloTablaProductos" alt="" coords="1056,235,1263,261"/>
+<area shape="rect" id="node17" href="$classmodelos_1_1_modelo_columnas_tabla_productos.html" title="modelos.ModeloColumnasTabla\lProductos" alt="" coords="691,311,897,353"/>
+<area shape="rect" id="node19" href="$classrenderer_1_1_trazador_tabla_productos.html" title="renderer.TrazadorTablaProductos" alt="" coords="331,384,544,411"/>
+<area shape="rect" id="node22" href="$classmysql_1_1_conexion_j_d_b_c.html" title="mysql.ConexionJDBC" alt="" coords="363,1372,511,1399"/>
+<area shape="rect" id="node27" href="$classpaneles_1_1_panel_fondo.html" title="paneles.PanelFondo" alt="" coords="724,1157,864,1184"/>
+<area shape="rect" id="node30" href="$classimagenes_1_1_imagenes.html" title="imagenes.Imagenes" alt="" coords="368,616,507,643"/>
+<area shape="rect" id="node35" href="$classobjetos_1_1_usuario.html" title="objetos.Usuario" alt="" coords="381,780,493,807"/>
+</map>

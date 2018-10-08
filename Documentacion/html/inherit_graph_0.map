@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classcontroladores_1_1_controlador_acceso.html" title="controladores.Controlador\lAcceso" alt="" coords="197,5,367,47"/>
+<area shape="rect" id="node3" href="$classcontroladores_1_1_controlador_menu_admin.html" title="controladores.Controlador\lMenuAdmin" alt="" coords="197,71,367,112"/>
+<area shape="rect" id="node4" href="$classcontroladores_1_1_controlador_tabla_principal.html" title="controladores.Controlador\lTablaPrincipal" alt="" coords="197,201,367,243"/>
+<area shape="rect" id="node5" href="$classcontroladores_1_1_controlador_toolbar.html" title="controladores.Controlador\lToolbar" alt="" coords="197,136,367,177"/>
+<area shape="rect" id="node6" href="$classpaneles_1_1_panel_pedidos_admin.html" title="paneles.PanelPedidosAdmin" alt="" coords="188,267,376,294"/>
+<area shape="rect" id="node9" href="$classpaneles_1_1_panel_estados.html" title="paneles.PanelEstados" alt="" coords="206,318,358,345"/>
+</map>

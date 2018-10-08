@@ -1,0 +1,9 @@
+<map id="paneles.PanelEstados.crearBotonToolbar" name="paneles.PanelEstados.crearBotonToolbar">
+<area shape="rect" id="node2" href="$classpaneles_1_1_panel_estados.html#a1a35a3b4c3144a440153fccd3da616fd" title="paneles.PanelEstados.mouse\lReleased" alt="" coords="239,5,433,47"/>
+<area shape="rect" id="node3" href="$classpaneles_1_1_panel_estados.html#a4bb90c78460058ff38dd8d70d4bc4db8" title="paneles.PanelEstados.mouse\lPressed" alt="" coords="239,71,433,112"/>
+<area shape="rect" id="node6" href="$classpaneles_1_1_panel_estados.html#a1e46995f291f6fbbb7686c141a24d4da" title="paneles.PanelEstados.mouse\lExited" alt="" coords="239,136,433,177"/>
+<area shape="rect" id="node7" href="$classpaneles_1_1_panel_estados.html#a6636a93391632082ad778cea6d6189b7" title="paneles.PanelEstados.mouse\lEntered" alt="" coords="239,201,433,243"/>
+<area shape="rect" id="node8" href="$classpaneles_1_1_panel_estados.html#a2042bfd835f4ceea6a1e055cc388add5" title="paneles.PanelEstados.mouse\lClicked" alt="" coords="239,267,433,308"/>
+<area shape="rect" id="node4" href="$classmodelos_1_1_modelo_tabla_maquina.html#ab8ce1d5c3842d65c11a8c8cb10f5b7f7" title="modelos.ModeloTablaMaquina.cambiar\lEstado" alt="" coords="483,39,730,80"/>
+<area shape="rect" id="node5" href="$classmodelos_1_1_modelo_tabla_maquina.html#a48d1751bbb3bfb91d50eb5bd2a80207e" title="modelos.ModeloTablaMaquina.refrescar\lTabla" alt="" coords="481,104,732,145"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="paneles.PanelPrincipal.PanelPrincipal" name="paneles.PanelPrincipal.PanelPrincipal">
+<area shape="rect" id="node2" href="$classobjetos_1_1_barcode_reader.html#a7c0a8f3e684c72a78005c97f3d9cdc24" title="objetos.BarcodeReader.add\lBarcodeListener" alt="" coords="255,5,437,47"/>
+<area shape="rect" id="node3" href="$classpaneles_1_1_panel_principal.html#aa2151461e479985277d05375c02b1022" title="paneles.PanelPrincipal.cambiar\lProducto" alt="" coords="244,71,448,112"/>
+<area shape="rect" id="node4" href="$classmysql_1_1_conexion_j_d_b_c.html#a77f0c70a90a3e174114586b131f10909" title="mysql.ConexionJDBC.select" alt="" coords="526,19,713,46"/>
+<area shape="rect" id="node5" href="$classmodelos_1_1_modelo_tabla_productos.html#ac85802b2d07288879883d1826e2d7bd3" title="modelos.ModeloTablaProductos.get\lListaProductos" alt="" coords="505,71,734,112"/>
+<area shape="rect" id="node6" href="$classmodelos_1_1_modelo_tabla_productos.html#ab0e461fbc9ca41944463eeeebf8a0625" title="modelos.ModeloTablaProductos.añadir" alt="" coords="496,137,743,163"/>
+</map>

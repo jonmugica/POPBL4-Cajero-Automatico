@@ -1,0 +1,5 @@
+<map id="paneles.PanelPrincipal.cambiarProducto" name="paneles.PanelPrincipal.cambiarProducto">
+<area shape="rect" id="node2" href="$classmysql_1_1_conexion_j_d_b_c.html#a77f0c70a90a3e174114586b131f10909" title="mysql.ConexionJDBC.select" alt="" coords="287,5,474,32"/>
+<area shape="rect" id="node3" href="$classmodelos_1_1_modelo_tabla_productos.html#ac85802b2d07288879883d1826e2d7bd3" title="modelos.ModeloTablaProductos.get\lListaProductos" alt="" coords="266,57,495,98"/>
+<area shape="rect" id="node4" href="$classmodelos_1_1_modelo_tabla_productos.html#ab0e461fbc9ca41944463eeeebf8a0625" title="modelos.ModeloTablaProductos.añadir" alt="" coords="257,123,504,149"/>
+</map>

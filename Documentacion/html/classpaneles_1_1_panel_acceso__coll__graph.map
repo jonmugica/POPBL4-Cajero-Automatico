@@ -1,0 +1,15 @@
+<map id="paneles.PanelAcceso" name="paneles.PanelAcceso">
+<area shape="rect" id="node10" href="$classcontroladores_1_1_controlador_acceso.html" title="controladores.Controlador\lAcceso" alt="" coords="1271,225,1442,266"/>
+<area shape="rect" id="node13" href="$classvistas_1_1_principal.html" title="vistas.Principal" alt="" coords="937,712,1046,739"/>
+<area shape="rect" id="node3" href="$classmysql_1_1_conexion_j_d_b_c.html" title="mysql.ConexionJDBC" alt="" coords="212,129,360,156"/>
+<area shape="rect" id="node15" href="$classpaneles_1_1_panel_principal.html" title="paneles.PanelPrincipal" alt="" coords="1619,680,1773,707"/>
+<area shape="rect" id="node8" href="$classpaneles_1_1_panel_fondo.html" title="paneles.PanelFondo" alt="" coords="216,361,356,388"/>
+<area shape="rect" id="node14" href="$classobjetos_1_1_reloj.html" title="objetos.Reloj" alt="" coords="1308,767,1405,793"/>
+<area shape="rect" id="node16" href="$classcontroladores_1_1_controlador_tabla_principal.html" title="controladores.Controlador\lTablaPrincipal" alt="" coords="1971,699,2141,741"/>
+<area shape="rect" id="node26" href="$classcontroladores_1_1_controlador_toolbar.html" title="controladores.Controlador\lToolbar" alt="" coords="1271,819,1442,861"/>
+<area shape="rect" id="node19" href="$classmodelos_1_1_modelo_tabla_productos.html" title="modelos.ModeloTablaProductos" alt="" coords="1253,1153,1460,1180"/>
+<area shape="rect" id="node21" href="$classmodelos_1_1_modelo_columnas_tabla_productos.html" title="modelos.ModeloColumnasTabla\lProductos" alt="" coords="888,1001,1095,1042"/>
+<area shape="rect" id="node23" href="$classrenderer_1_1_trazador_tabla_productos.html" title="renderer.TrazadorTablaProductos" alt="" coords="528,1053,741,1080"/>
+<area shape="rect" id="node28" href="$classimagenes_1_1_imagenes.html" title="imagenes.Imagenes" alt="" coords="565,884,704,911"/>
+<area shape="rect" id="node33" href="$classobjetos_1_1_usuario.html" title="objetos.Usuario" alt="" coords="579,723,691,749"/>
+</map>

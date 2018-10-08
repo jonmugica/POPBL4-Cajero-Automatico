@@ -1,0 +1,16 @@
+<map id="controladores.ControladorMenuAdmin" name="controladores.ControladorMenuAdmin">
+<area shape="rect" id="node4" href="$classobjetos_1_1_reloj.html" title="objetos.Reloj" alt="" coords="389,603,486,629"/>
+<area shape="rect" id="node6" href="$classcontroladores_1_1_controlador_tabla_principal.html" title="controladores.Controlador\lTablaPrincipal" alt="" coords="1773,294,1944,335"/>
+<area shape="rect" id="node20" href="$classcontroladores_1_1_controlador_toolbar.html" title="controladores.Controlador\lToolbar" alt="" coords="1074,686,1245,727"/>
+<area shape="rect" id="node35" href="$classcontroladores_1_1_controlador_acceso.html" title="controladores.Controlador\lAcceso" alt="" coords="1074,1135,1245,1177"/>
+<area shape="rect" id="node3" href="$classvistas_1_1_principal.html" title="vistas.Principal" alt="" coords="739,689,849,716"/>
+<area shape="rect" id="node5" href="$classpaneles_1_1_panel_principal.html" title="paneles.PanelPrincipal" alt="" coords="1421,452,1576,479"/>
+<area shape="rect" id="node32" href="$classpaneles_1_1_panel_acceso.html" title="paneles.PanelAcceso" alt="" coords="1425,1107,1573,1133"/>
+<area shape="rect" id="node9" href="$classmodelos_1_1_modelo_tabla_productos.html" title="modelos.ModeloTablaProductos" alt="" coords="1056,228,1263,255"/>
+<area shape="rect" id="node11" href="$classmodelos_1_1_modelo_columnas_tabla_productos.html" title="modelos.ModeloColumnasTabla\lProductos" alt="" coords="691,257,897,298"/>
+<area shape="rect" id="node13" href="$classrenderer_1_1_trazador_tabla_productos.html" title="renderer.TrazadorTablaProductos" alt="" coords="331,297,544,324"/>
+<area shape="rect" id="node16" href="$classmysql_1_1_conexion_j_d_b_c.html" title="mysql.ConexionJDBC" alt="" coords="363,1155,511,1181"/>
+<area shape="rect" id="node21" href="$classpaneles_1_1_panel_fondo.html" title="paneles.PanelFondo" alt="" coords="1089,971,1229,997"/>
+<area shape="rect" id="node24" href="$classimagenes_1_1_imagenes.html" title="imagenes.Imagenes" alt="" coords="368,388,507,415"/>
+<area shape="rect" id="node29" href="$classobjetos_1_1_usuario.html" title="objetos.Usuario" alt="" coords="381,740,493,767"/>
+</map>

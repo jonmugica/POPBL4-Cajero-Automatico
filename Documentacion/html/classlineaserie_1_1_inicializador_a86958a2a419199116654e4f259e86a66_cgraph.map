@@ -1,0 +1,5 @@
+<map id="lineaserie.Inicializador.Inicializador" name="lineaserie.Inicializador.Inicializador">
+<area shape="rect" id="node2" href="$classlineaserie_1_1_serial_comm.html#ac940f6b749e1137f5f1233b320e0e46f" title="lineaserie.SerialComm.encontrar\lPuerto" alt="" coords="207,5,417,47"/>
+<area shape="rect" id="node4" href="$classlineaserie_1_1_serial_comm.html#a877035aa389c7d3ceef75f1927afd4d5" title="lineaserie.SerialComm.conectar" alt="" coords="209,71,415,98"/>
+<area shape="rect" id="node3" href="$classlineaserie_1_1_serial_comm.html#ae0ae445e9464e90c1f4ebe3e943d0788" title="lineaserie.SerialComm.get\lPortTypeName" alt="" coords="465,5,640,47"/>
+</map>

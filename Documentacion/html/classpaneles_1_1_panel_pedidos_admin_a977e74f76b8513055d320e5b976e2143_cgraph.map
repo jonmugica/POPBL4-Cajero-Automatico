@@ -1,0 +1,5 @@
+<map id="paneles.PanelPedidosAdmin.itemStateChanged" name="paneles.PanelPedidosAdmin.itemStateChanged">
+<area shape="rect" id="node2" href="$classmodelos_1_1_modelo_pedidos.html#ac040d81e35f1db869c8d0664bf6b0b60" title="modelos.ModeloPedidos.filtrar\lPorAño" alt="" coords="279,5,475,47"/>
+<area shape="rect" id="node3" href="$classmodelos_1_1_modelo_pedidos.html#a404af1e93f8946cb06aa531e8043c62c" title="modelos.ModeloPedidos.filtrar\lPorMes" alt="" coords="279,71,475,112"/>
+<area shape="rect" id="node4" href="$classmodelos_1_1_modelo_pedidos.html#a6a817c290edad02cffcb390716ec3f45" title="modelos.ModeloPedidos.mostrar\lTodos" alt="" coords="271,136,483,177"/>
+</map>

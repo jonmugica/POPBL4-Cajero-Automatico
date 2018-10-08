@@ -1,0 +1,15 @@
+<map id="paneles.PanelPrincipal.almacenarProductos" name="paneles.PanelPrincipal.almacenarProductos">
+<area shape="rect" id="node2" href="$classvistas_1_1_principal.html#ad7379276c979124d4386d01439f24b42" title="vistas.Principal.getConexionBD" alt="" coords="285,5,488,32"/>
+<area shape="rect" id="node3" href="$classmysql_1_1_conexion_j_d_b_c.html#a4dde03f79391c9a52f7a84e281c5a696" title="mysql.ConexionJDBC.getId\lUsuario" alt="" coords="297,57,477,98"/>
+<area shape="rect" id="node4" href="$classvistas_1_1_principal.html#af7ea8d6ba599873466968add34233be0" title="vistas.Principal.getUsuario\lActual" alt="" coords="299,122,474,163"/>
+<area shape="rect" id="node5" href="$classobjetos_1_1_usuario.html#a091d44abe53530995ec78cde4c574a1d" title="objetos.Usuario.getUsuario" alt="" coords="297,188,476,215"/>
+<area shape="rect" id="node6" href="$classmysql_1_1_conexion_j_d_b_c.html#abbadbe682819495c2b2afd962afba245" title="mysql.ConexionJDBC.getId\lUltimoPedido" alt="" coords="297,239,477,281"/>
+<area shape="rect" id="node7" href="$classmysql_1_1_conexion_j_d_b_c.html#a6d8f0cd0e2046952d9771d379c16562a" title="mysql.ConexionJDBC.registrar\lPedido" alt="" coords="287,357,486,398"/>
+<area shape="rect" id="node8" href="$classobjetos_1_1_pedido.html#a2cedae9fd179897d4d7e83b655d6fa58" title="objetos.Pedido.getId" alt="" coords="573,308,713,335"/>
+<area shape="rect" id="node11" href="$classobjetos_1_1_pedido.html#a642984750b50555899811e39208729b4" title="objetos.Pedido.setListaProductos" alt="" coords="278,423,495,449"/>
+<area shape="rect" id="node12" href="$classmodelos_1_1_modelo_tabla_productos.html#ac85802b2d07288879883d1826e2d7bd3" title="modelos.ModeloTablaProductos.get\lListaProductos" alt="" coords="272,474,501,515"/>
+<area shape="rect" id="node13" href="$classobjetos_1_1_pedido.html#a9e4f2c0942939a0defdea21140e85e94" title="objetos.Pedido.getListaProductos" alt="" coords="278,540,495,567"/>
+<area shape="rect" id="node14" href="$classmysql_1_1_conexion_j_d_b_c.html#ab41e6e25d89ab9a807e9729fcdf5818f" title="mysql.ConexionJDBC.registrar\lLinea" alt="" coords="287,591,486,633"/>
+<area shape="rect" id="node9" href="$classobjetos_1_1_pedido.html#afed5e1d427d944ead970861ef07be474" title="objetos.Pedido.getUsuarioID" alt="" coords="549,363,736,389"/>
+<area shape="rect" id="node10" href="$classobjetos_1_1_pedido.html#af2c6fe4c929f1fce6443e3ffcb2c0a45" title="objetos.Pedido.getString\lFecha" alt="" coords="561,414,725,455"/>
+</map>

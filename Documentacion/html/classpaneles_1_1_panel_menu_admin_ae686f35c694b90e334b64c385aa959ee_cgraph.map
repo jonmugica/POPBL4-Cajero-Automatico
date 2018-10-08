@@ -1,0 +1,4 @@
+<map id="paneles.PanelMenuAdmin.PanelMenuAdmin" name="paneles.PanelMenuAdmin.PanelMenuAdmin">
+<area shape="rect" id="node2" href="$classvistas_1_1_principal.html#ad7379276c979124d4386d01439f24b42" title="vistas.Principal.getConexionBD" alt="" coords="278,5,481,32"/>
+<area shape="rect" id="node3" href="$classpaneles_1_1_panel_fondo.html#ae95bde361bef113903c6fa6b1b65acf2" title="paneles.PanelFondo.setBackground" alt="" coords="264,56,495,83"/>
+</map>

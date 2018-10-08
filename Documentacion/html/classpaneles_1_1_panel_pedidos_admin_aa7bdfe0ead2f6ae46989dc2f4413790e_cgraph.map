@@ -1,0 +1,8 @@
+<map id="paneles.PanelPedidosAdmin.actionPerformed" name="paneles.PanelPedidosAdmin.actionPerformed">
+<area shape="rect" id="node2" href="$classmodelos_1_1_modelo_usuarios.html#a319bbe3d654caccba263e75ae64e9f37" title="modelos.ModeloUsuarios.mostrar\lTodos" alt="" coords="280,5,496,47"/>
+<area shape="rect" id="node3" href="$classmodelos_1_1_modelo_pedidos.html#a6493faaa5807821e134db0a62bc93425" title="modelos.ModeloPedidos.limpiar" alt="" coords="285,71,491,98"/>
+<area shape="rect" id="node4" href="$classmodelos_1_1_modelo_usuarios.html#a65777b1abda04e3dd05762d1e5a4cc1d" title="modelos.ModeloUsuarios.filtrar\lPorDni" alt="" coords="288,123,488,164"/>
+<area shape="rect" id="node5" href="$classmodelos_1_1_modelo_usuarios.html#a32302d42fef716e596f45c6ed27a3641" title="modelos.ModeloUsuarios.filtrar\lPorCodigoPostal" alt="" coords="288,188,488,229"/>
+<area shape="rect" id="node6" href="$classmodelos_1_1_modelo_usuarios.html#aa19c41161c68beb4f84f553bd3cca8b3" title="modelos.ModeloUsuarios.filtrar\lPorPoblacion" alt="" coords="288,253,488,295"/>
+<area shape="rect" id="node7" href="$classmodelos_1_1_modelo_usuarios.html#a43fe9d71b2cb14a67af32df76c93f1ec" title="modelos.ModeloUsuarios.filtrar\lPorUsuario" alt="" coords="288,319,488,360"/>
+</map>

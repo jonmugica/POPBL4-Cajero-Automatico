@@ -1,0 +1,6 @@
+<map id="controladores.ControladorTablaPrincipal.tableChanged" name="controladores.ControladorTablaPrincipal.tableChanged">
+<area shape="rect" id="node2" href="$classmodelos_1_1_modelo_tabla_productos.html#a70a7f512df5156d6b8a31f12afd8a570" title="modelos.ModeloTablaProductos.calcular\lTotal" alt="" coords="240,5,496,47"/>
+<area shape="rect" id="node3" href="$classpaneles_1_1_panel_principal.html#a5ee2138a32b7b6bc6a0f7b3bd68f4821" title="paneles.PanelPrincipal.get\lImporteTotal" alt="" coords="280,71,456,112"/>
+<area shape="rect" id="node4" href="$classmodelos_1_1_modelo_tabla_productos.html#a731f5572c48b05c966a25ec8843d57cd" title="modelos.ModeloTablaProductos.get\lSumaTotal" alt="" coords="253,136,483,177"/>
+<area shape="rect" id="node5" href="$classpaneles_1_1_panel_principal.html#ab8efee7c290494ba31d026c47dbbcefb" title="paneles.PanelPrincipal.get\lPanelFondo" alt="" coords="280,201,456,243"/>
+</map>

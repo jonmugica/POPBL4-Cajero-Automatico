@@ -1,0 +1,9 @@
+<map id="controladores.ControladorMenuAdmin.actionPerformed" name="controladores.ControladorMenuAdmin.actionPerformed">
+<area shape="rect" id="node2" href="$classvistas_1_1_principal.html#ad7379276c979124d4386d01439f24b42" title="vistas.Principal.getConexionBD" alt="" coords="247,5,449,32"/>
+<area shape="rect" id="node3" href="$classvistas_1_1_principal.html#a0f01204c3cdf3b88718a5f2c6a6d9ac9" title="vistas.Principal.cambiar\lPanel" alt="" coords="269,57,427,98"/>
+<area shape="rect" id="node4" href="$classpaneles_1_1_panel_pedidos_admin.html#a76287d5b003f15b41fd889936a6e817e" title="paneles.PanelPedidosAdmin.get\lPanel" alt="" coords="243,122,453,163"/>
+<area shape="rect" id="node5" href="$classpaneles_1_1_panel_estados.html#a8f949a32d4a35371a2f2b37a66ede21c" title="paneles.PanelEstados.get\lPanel" alt="" coords="261,187,435,229"/>
+<area shape="rect" id="node6" href="$classvistas_1_1_principal.html#afc2c81827c88c9c2494b3345264e747d" title="vistas.Principal.getVentana\lPrincipal" alt="" coords="259,253,437,294"/>
+<area shape="rect" id="node7" href="$classvistas_1_1_principal.html#a0823d729a42c384bf4afd30b60a3e468" title="vistas.Principal.cambiar\lPanelAcceso" alt="" coords="269,318,427,359"/>
+<area shape="rect" id="node8" href="$classpaneles_1_1_panel_acceso.html#ac978a2c0e1aef22aa66b19abe354b02b" title="paneles.PanelAcceso.getPanel" alt="" coords="501,325,704,352"/>
+</map>

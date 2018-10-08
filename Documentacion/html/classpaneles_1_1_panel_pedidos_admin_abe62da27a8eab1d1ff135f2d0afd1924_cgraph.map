@@ -1,0 +1,9 @@
+<map id="paneles.PanelPedidosAdmin.PanelPedidosAdmin" name="paneles.PanelPedidosAdmin.PanelPedidosAdmin">
+<area shape="rect" id="node2" href="$classpaneles_1_1_panel_pedidos_admin.html#a3f0248c018216056a00b353d5f13f097" title="paneles.PanelPedidosAdmin.crear\lListaCompleta" alt="" coords="245,103,467,144"/>
+<area shape="rect" id="node6" href="$classpaneles_1_1_panel_pedidos_admin.html#a3479b5a4aa009da3d3e99ad6ad689a57" title="paneles.PanelPedidosAdmin.crear\lToolbar" alt="" coords="245,184,467,225"/>
+<area shape="rect" id="node8" href="$classpaneles_1_1_panel_pedidos_admin.html#a700eb718ad003fd6132347117e6842c2" title="paneles.PanelPedidosAdmin.crear\lSplitPrincipal" alt="" coords="245,249,467,291"/>
+<area shape="rect" id="node3" href="$classmysql_1_1_conexion_j_d_b_c.html#afa9f004689cee7a90e6a19c359409e04" title="mysql.ConexionJDBC.getLista\lUsuarios" alt="" coords="526,5,725,47"/>
+<area shape="rect" id="node4" href="$classmysql_1_1_conexion_j_d_b_c.html#a38333a2f31d016faaf14c08901c6ffea" title="mysql.ConexionJDBC.getLista\lPedidos" alt="" coords="526,71,725,112"/>
+<area shape="rect" id="node5" href="$classmysql_1_1_conexion_j_d_b_c.html#a93e878bd79640edb42bbaa5e11217f8e" title="mysql.ConexionJDBC.getLista\lProductos" alt="" coords="526,136,725,177"/>
+<area shape="rect" id="node7" href="$classpaneles_1_1_panel_pedidos_admin.html#aefe83135ca649c6b08d56372acada534" title="paneles.PanelPedidosAdmin.crear\lBotonToolbar" alt="" coords="515,201,736,243"/>
+</map>

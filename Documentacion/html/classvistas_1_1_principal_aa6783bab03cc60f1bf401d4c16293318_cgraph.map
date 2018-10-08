@@ -1,0 +1,7 @@
+<map id="vistas.Principal.cambiarPanelCompra" name="vistas.Principal.cambiarPanelCompra">
+<area shape="rect" id="node2" href="$classpaneles_1_1_panel_principal.html#accd82709ae4701f14d1b5a4bbb8f3aae" title="paneles.PanelPrincipal.crear\lToolbar" alt="" coords="212,5,399,47"/>
+<area shape="rect" id="node4" href="$classpaneles_1_1_panel_principal.html#abf6e9ec8437453a751ea1a4bcc33fb87" title="paneles.PanelPrincipal.crear\lSplitPrincipal" alt="" coords="212,71,399,112"/>
+<area shape="rect" id="node5" href="$classobjetos_1_1_reloj.html#a8568b99d4457c01294d2078b033330a4" title="objetos.Reloj.empezar" alt="" coords="230,137,381,163"/>
+<area shape="rect" id="node3" href="$classpaneles_1_1_panel_principal.html#a45d159d89db6217a595c166bf2f0b2ea" title="paneles.PanelPrincipal.crear\lBotonToolbar" alt="" coords="448,5,635,47"/>
+<area shape="rect" id="node6" href="$classvistas_1_1_principal.html#a95e7bccba557226e9e56211a58a2e03c" title="vistas.Principal.getLabelHora" alt="" coords="447,137,636,163"/>
+</map>

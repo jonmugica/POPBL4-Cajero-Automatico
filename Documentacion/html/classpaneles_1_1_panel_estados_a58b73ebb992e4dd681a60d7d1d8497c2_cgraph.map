@@ -1,0 +1,12 @@
+<map id="paneles.PanelEstados.PanelEstados" name="paneles.PanelEstados.PanelEstados">
+<area shape="rect" id="node2" href="$classmodelos_1_1_modelo_tabla_maquina.html#aa49c15eda1d441b2a17159f0aa80cef4" title="modelos.ModeloTablaMaquina.add" alt="" coords="243,85,465,111"/>
+<area shape="rect" id="node3" href="$classpaneles_1_1_panel_estados.html#ae62e5c6656177ec67c97cc2fe48d1e54" title="paneles.PanelEstados.crear\lToolbar" alt="" coords="261,136,447,177"/>
+<area shape="rect" id="node4" href="$classpaneles_1_1_panel_estados.html#af627b3edddac65046fd93dc774904597" title="paneles.PanelEstados.crear\lBotonToolbar" alt="" coords="513,136,699,177"/>
+<area shape="rect" id="node5" href="$classpaneles_1_1_panel_estados.html#a1a35a3b4c3144a440153fccd3da616fd" title="paneles.PanelEstados.mouse\lReleased" alt="" coords="747,5,941,47"/>
+<area shape="rect" id="node6" href="$classpaneles_1_1_panel_estados.html#a4bb90c78460058ff38dd8d70d4bc4db8" title="paneles.PanelEstados.mouse\lPressed" alt="" coords="747,71,941,112"/>
+<area shape="rect" id="node9" href="$classpaneles_1_1_panel_estados.html#a1e46995f291f6fbbb7686c141a24d4da" title="paneles.PanelEstados.mouse\lExited" alt="" coords="747,136,941,177"/>
+<area shape="rect" id="node10" href="$classpaneles_1_1_panel_estados.html#a6636a93391632082ad778cea6d6189b7" title="paneles.PanelEstados.mouse\lEntered" alt="" coords="747,201,941,243"/>
+<area shape="rect" id="node11" href="$classpaneles_1_1_panel_estados.html#a2042bfd835f4ceea6a1e055cc388add5" title="paneles.PanelEstados.mouse\lClicked" alt="" coords="747,267,941,308"/>
+<area shape="rect" id="node7" href="$classmodelos_1_1_modelo_tabla_maquina.html#ab8ce1d5c3842d65c11a8c8cb10f5b7f7" title="modelos.ModeloTablaMaquina.cambiar\lEstado" alt="" coords="991,39,1238,80"/>
+<area shape="rect" id="node8" href="$classmodelos_1_1_modelo_tabla_maquina.html#a48d1751bbb3bfb91d50eb5bd2a80207e" title="modelos.ModeloTablaMaquina.refrescar\lTabla" alt="" coords="989,104,1240,145"/>
+</map>
